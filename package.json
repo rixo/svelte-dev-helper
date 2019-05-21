@@ -34,5 +34,8 @@
     "reify": "^0.13.6",
     "sinon": "^4.1.4",
     "sinon-chai": "^2.14.0"
+  },
+  "optionalDependencies": {
+    "svelte-native": "^0.3.0"
   }
 }
