@@ -1,1 +1,3 @@
-export * from './lib/proxy';
+import { initProxy } from './lib/proxy';
+
+export const createProxy = initProxy();
